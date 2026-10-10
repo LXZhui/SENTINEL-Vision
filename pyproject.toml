@@ -6,7 +6,8 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "CQUT-302", email = "cqut302@example.com"}
+    {name = "ziqi-ning"},
+    {name = "李熙哲", email = "340637496+LXZhui@users.noreply.github.com"}
 ]
 keywords = ["vision", "raspberry-pi", "lidar", "opencv", "apriltag", "embedded"]
 classifiers = [
