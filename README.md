@@ -7,6 +7,7 @@
 
 > **本仓库是基于 [ziqi-ning/SENTINEL-Vision](https://github.com/ziqi-ning/SENTINEL-Vision) 的改进版。**
 > 原始项目采用 MIT 许可证，版权归原作者 [ziqi-ning](https://github.com/ziqi-ning) 所有，详见 [LICENSE](LICENSE)。
+> 改进版维护者：**李熙哲**（[LXZhui](https://github.com/LXZhui)）。
 > 本改进版修复了若干 bug 并补充了 CI，具体见下方「改进说明」。
 
 ---
